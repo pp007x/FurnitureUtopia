@@ -1,0 +1,44 @@
+brewing_table:
+  blocks:
+    -
+      type: OAK_PLANKS
+      x: 0
+      y: 0
+      z: 0
+    -
+      type: OAK_PLANKS
+      x: 1
+      y: 0
+      z: 0
+    -
+      type: OAK_PLANKS
+      x: 0
+      y: 0
+      z: 1
+    -
+      type: BREWING_STAND
+      x: 0
+      y: 1
+      z: 0
+another_structure:
+  blocks:
+    -
+      type: STONE
+      x: 0
+      y: 0
+      z: 0
+    -
+      type: STONE
+      x: 1
+      y: 0
+      z: 0
+    -
+      type: STONE
+      x: 0
+      y: 0
+      z: 1
+    -
+      type: TORCH
+      x: 0
+      y: 1
+      z: 0

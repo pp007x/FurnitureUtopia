@@ -1,0 +1,11 @@
+name: Furniture
+version: '${project.version}'
+main: furniture.furniture.Main
+api-version: 1.20
+commands:
+  giveStructure:
+    description: Gives a structure placer to the player.
+  removeStructure:
+    description: Removes a placed multi-block structure.
+  buildmode:
+    description: Toggles furniture building mode
